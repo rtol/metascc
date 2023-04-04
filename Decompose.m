@@ -19,7 +19,7 @@ for i=1:7,
     dcprtp(:,i) = JointPDF(:,i+1)*w(i)/sum(w);
 end
 
-figure
+figure %S19 prtp.jpg
 area(SCCgrid(301:2101), dcprtp(301:2101,:));
 legend('3.0', '2.0', '1.5','1.0', '0.1', '0.0', 'other');
 xlabel('dollar per tonne of carbon')
@@ -55,7 +55,7 @@ for i=1:5,
     dcauthor(:,i) = JointPDF(:,i+12)*w(i)/sum(w);
 end
 
-figure
+figure %S20 author.jpg
 area(SCCgrid(301:2101), dcauthor(301:2101,:))
 legend('Hope','Ploeg','Nordhaus','Tol','Other')
 xlabel('dollar per tonne of carbon')
@@ -91,11 +91,13 @@ for i=1:6,
     dcperiod(:,i) = JointPDF(:,i+17)*w(i)/sum(w);
 end
 
-figure
+figure %2 period.jpg
 area(SCCgrid(301:2101), dcperiod(301:2101,:));
 legend('1982-1995','1996-2001','2002-2006','2007-2013','2014-2017','2018-2021');
 xlabel('dollar per tonne of carbon')
 ylabel('Probability density')
+
+print('period','-dpng','-r1500');
 
 Q(1,:) = sum(dcperiod(CDF<=0.2,:));
 Q(2,:) = sum(dcperiod(CDF<=0.4 & CDF > 0.2,:));
@@ -130,7 +132,7 @@ for i=1:6,
     dcperiod3(:,i) = JointPDF(:,i+23)*w(i)/sum(w);
 end
 
-figure
+figure %S17 period3.jpg
 area(SCCgrid(301:2101), dcperiod3(301:2101,:));
 legend('1982-1995','1996-2001','2002-2006','2007-2013','2014-2017','2018-2021');
 xlabel('dollar per tonne of carbon')
@@ -169,7 +171,7 @@ for i=1:6,
     dcperiod2(:,i) = JointPDF(:,i+29)*w(i)/sum(w);
 end
 
-figure
+figure %S16 period2.jpg
 area(SCCgrid(301:2101), dcperiod2(301:2101,:));
 legend('1982-1995','1996-2001','2002-2006','2007-2013','2014-2017','2018-2021');
 xlabel('dollar per tonne of carbon')
@@ -208,7 +210,7 @@ for i=1:6,
     dcperiod1(:,i) = JointPDF(:,i+35)*w(i)/sum(w);
 end
 
-figure
+figure %S15 period1.jpg
 area(SCCgrid(301:2101), dcperiod1(301:2101,:));
 legend('1982-1995','1996-2001','2002-2006','2007-2013','2014-2017','2018-2021');
 xlabel('dollar per tonne of carbon')
@@ -247,7 +249,7 @@ for i=1:6,
     dcperiod0(:,i) = JointPDF(:,i+41)*w(i)/sum(w);
 end
 
-figure
+figure %S14 period0.jpg
 area(SCCgrid(301:2101), dcperiod0(301:2101,:));
 legend('1982-1995','1996-2001','2002-2006','2007-2013','2014-2017','2018-2021');
 xlabel('dollar per tonne of carbon')
@@ -287,7 +289,7 @@ for i=1:7,
     dcprtpgr(:,i) = PDFgrowth(:,i+1)*w(i)/sum(w);
 end
 
-figure
+figure %S10 growth.jpg
 area(grgrid, dcprtpgr);
 legend('3.0', '2.0', '1.5','1.0', '0.1', '0.0', 'other');
 xlabel('per year')
@@ -358,7 +360,7 @@ for k=1:NBS,
     disp(k)
     SCC = SCCsave(BSU(:,k));
     TotalWeight = Weightsave(BSU(:,k));
-    ConstructPDF
+    ConstructPDF %this would be faster without the graph
     CDF = JointCDF(:,1);
     TotW = sum(TotalWeight);
     for i=1:7,

@@ -23,7 +23,12 @@ for i=1:NFilter,
     Kernel95(i) = (min(SCCgrid(vlarger)) + max(SCCgrid(vsmaller)))/2;
 end
 
-
+%% kernelmeans.tex
+Report = [KernelMean(18:23);KernelMean(24:29);KernelMean(30:35);KernelMean(36:41);KernelMean(42:47)];
+Report2 = [KernelMean(1) KernelMean(2) KernelMean(3) KernelMean(5) KernelMean(7);
+ KernelStDev(1) KernelStDev(2) KernelStDev(3) KernelStDev(5) KernelStDev(7);
+ KernelMedian(1) KernelMedian(2) KernelMedian(3) KernelMedian(5) KernelMedian(7);
+ KernelMode(1) KernelMode(2) KernelMode(3) KernelMode(5) KernelMode(7)];
 %{
 for i=1:NTime,
     for f=1:NFilter,

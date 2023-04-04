@@ -6,11 +6,14 @@ histo = histo'/sum(histo);
 
 %%
 hold on
+figure %not used
 plot(SCCgrid(301:2101),JointPDFSilverman(301:2101,1),SCCgrid(301:2101),JointPDFGauss(301:2101,1),SCCgrid(301:2101),JointPDFJSUS(301:2101,1),SCCgrid(301:2101),JointPDFJSU(301:2101,1),SCCgrid(301:2101),JointPDFGaussGauss(301:2101,1),SCCgrid(301:2101),JointPDFGumbelGauss(301:2101,1),SCCgrid(301:2101),JointPDFGumbelWeibull(301:2101,1))
 bar(SCCgrid(301:2101),histo(301:2101,1))
 legend('Normal, Silverman', 'Normal', 'Johnson SU, Silverman', 'Johnson SU', 'Normal, Normal','Gumbel, Normal', 'Gumbel, Weibull', 'Histogram');
 xlabel('dollar per tonne of carbon')
-ylabel('Probability density')
+ylabel('probability density')
+
+hold off
 
 %%
 MISE(1) = histo'*((histo - JointPDFSilverman).*(histo - JointPDFSilverman));
@@ -49,7 +52,7 @@ mean(6) = SCCgrid*JointPDFGumbelGauss;
 mean(7) = SCCgrid*JointPDFGumbelWeibull;
 mean(8) = SCCgrid*histo;
 
-%%
+%% Table S3
 kernelchar = [mean; p0; pl; MISE*1000];
 columnLabels = {'Normal, Silverman', 'Normal', 'Johnson SU, Silverman', 'Johnson SU', 'Normal, Normal','Gumbel, Normal', 'Gumbel, Weibull', 'Observations'};
 rowLabels = {'Average','P(SCC<0)','P(SCC>1186)','MISE'};
