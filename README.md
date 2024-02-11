@@ -1,6 +1,8 @@
 # metascc
 
 Code and data for the kernel density estimates of the social cost of carbon as used in Tol (2015)
-https://ideas.repec.org/p/sus/susewp/7515.html and Tol (2021) https://ideas.repec.org/p/sus/susewp/0821.html
+https://ideas.repec.org/p/sus/susewp/7515.html (socialcostcarbon-REEP.xlsx) and Tol (2021) https://ideas.repec.org/p/sus/susewp/0821.html (socialcostcarbonNCC.xlsx).
+
+The latest version of the data is always socialcostcarbon.xlsx
 
 KernelWrapper.m runs the scripts in the right order.
