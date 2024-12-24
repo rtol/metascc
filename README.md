@@ -5,6 +5,6 @@ https://ideas.repec.org/p/sus/susewp/7515.html (socialcostcarbon-REEP.xlsx) and 
 
 KernelWrapper.m runs the scripts in the right order for the paper in Nature Climate Change https://www.nature.com/articles/s41558-023-01680-x.
 
-For the paper "Trends and biases in the social cost of carbon" https://ideas.repec.org/p/arx/papers/2409.08158.html download SCC.dta, avecit.dta and journals.dta and run sccnetwork.do. The file citation.m constructs the citation and author networks.
+For the paper "Trends and biases in the social cost of carbon" https://ideas.repec.org/p/arx/papers/2409.08158.html download SCC.dta, avecit.dta and journals.dta and run sccnetwork.do. The file citation.m constructs the citation and author networks. The file scc.bib has the bibliographic details. The file connect.xlsx connects bibliographic data to the social cost of carbon data.
 
 The latest version of the data is always socialcostcarbon.xlsx
