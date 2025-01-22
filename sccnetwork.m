@@ -1,24 +1,108 @@
 clear all
 
-citation
+citation2024
 
-N = length(H.Nodes{:,1});
-N2 = length(ID);
-included = zeros(N,1);
-for i=1:N,
-    for j=1:N2,
+NPaper = length(H.Nodes{:,1});
+Naux = length(ID);
+included = zeros(NPaper,1);
+for i=1:NPaper
+    for j=1:Naux
         included(i) = or(included(i),strcmp(H.Nodes.Name{i},ID{j}));
     end
 end
 
-progress = sum(included)/N
+progress = sum(included)/NPaper
+
+if progress == 1
+    disp('all papers are correctly identified')
+end
+
+clear included progress
 %%
-cont = csvread('contribution.csv');
-npap = cont(:,1);
-NAuth = length(npap); %note that the number of authors is almost equal to the number of papers
+if ismultigraph(H)
+ disp('duplicate edges')
+ for i=1:NPaper-1
+     for j=2:NPaper
+         ec = edgecount(H,H.Nodes.Name{i},H.Nodes.Name{j});
+         if ec > 1
+            i
+            j
+         end
+     end
+ end
+else
+ disp('no duplicates in paper tree')
+end
+
+[cycles,edgecycles] = allcycles(H);
+
+
+%%
+NAuth = length(A.Nodes{:,1});
+if ismultigraph(A)
+ disp('duplicate edges')
+ for i=1:NAuth-1
+     for j=2:NAuth
+         ec = edgecount(A,A.Nodes.Name{i},A.Nodes.Name{j});
+         if ec > 1
+            i
+            j
+         end
+     end
+ end
+else
+ disp('no duplicates in author tree')
+end
+
+clear ec
+
+%%
+T = readtable('contribution2024.csv');
+
+Naux = length(T.Var4);
+
+included = zeros(NAuth,1);
+for i=1:NAuth
+    for j=1:Naux
+        included(i) = or(included(i),strcmp(A.Nodes.Name{i},T.Var4{j}));
+    end
+end
+
+progress = sum(included)/NAuth
+if progress == 1
+    disp('all authors in tree are in database')
+end
+%%
+included = zeros(Naux,1);
+for i=1:Naux
+    for j=1:NAuth
+        included(i) = or(included(i),strcmp(A.Nodes.Name{j},T.Var4{i}));
+    end
+end
+
+progress = sum(included)/Naux
+if progress == 1
+    disp('all authors in database are in tree')
+end
+
+clear included progress Naux
+%%
+npap = T.Var1;
+ncontr = T.Var2;
+
+for i=1:NAuth
+    for j=1:NAuth
+        if strcmp(A.Nodes.Name{i},T.Var4{j})
+            npap(i) = T.Var1(j);
+            ncontr(i) = T.Var2(j);
+        end
+    end
+end
+
+%%
 dist = distances(A);
 idx = zeros(1,NAuth);
-threshold = 5;
+threshold = 5;%13
 for i=1:NAuth,
     if npap(i)>=threshold
         pos = find(strcmp(A.Nodes{i,1},A.Nodes{:,1}));
@@ -27,11 +111,12 @@ for i=1:NAuth,
 end
 
 A1 = subgraph(A,idx);
-npap = npap(idx);
+npap1 = npap(idx);
+ncon1 = ncontr(idx);
 
 name = A1.Nodes.Name;
 for i = 1:length(name)
- if npap(i) < threshold+1
+ if npap1(i) < threshold
     name{i} = '';
  end
 end
@@ -39,9 +124,9 @@ end
 figure
 box off
 p = plot(A1,'NodeLabel',name,'Layout','force');
-%title('Co-author networks of estimates the social cost of carbon. Node size is number of published papers.')
+%title('Co-author networks of estimates the social cost of carbon. Node size is contribution to literature.')
 set(gcf,'units','points','position',[0,0,1440,720])
-p.MarkerSize = 2+8*npap/max(npap);
+p.MarkerSize = 2+8*ncon1/max(ncon1);
 p.NodeColor = [0.8500 0.3250 0.0980];
 p.EdgeColor = [0 0.4470 0.7410];
 set(gca,'ycolor','w','xcolor','w');
@@ -49,15 +134,6 @@ set(gcf,'Color','w');
 
 idsave = idx;
 
-%%
-if ismultigraph(H)
- disp('duplicate edges')
- H = simplify(H);
-else
- disp('no duplicates')
-end
-
-[cycles,edgecycles] = allcycles(H);
 %%
 layout = 'layered';
 
@@ -165,7 +241,7 @@ resid = central - ymod;
 RSS = resid'*resid;
 SER = sqrt(RSS/(N-2));
 
-cut = prctile(resid,90)/SER;
+cut = prctile(resid,95)/SER;
 for i = 1:N
  if central(i) < beta(1) + cut*SER + beta(2)*year(i)
     syear{i} = '';
@@ -205,7 +281,7 @@ wresid = wcentral - wymod;
 wRSS = wresid'*wresid;
 wSER = sqrt(wRSS/(N-2));
 
-wcut = prctile(wresid,90)/wSER;
+wcut = prctile(wresid,95)/wSER;
 for i = 1:N
  if wcentral(i) < wbeta(1) + wcut*wSER + wbeta(2)*year(i)
     wyear{i} = '';
@@ -254,16 +330,18 @@ G = H;
 G.Edges.Weight = ones(length(G.Edges.Weight),1);
 dist = distances(G)';
 
-N = length(ID);
+%N = length(ID);
 
-meta = csvread('socialcostcarbon.csv');
-weight = meta(:,2).*meta(:,4);
-scc = meta(:,6);
-prtp = meta(:,8);
-eis = meta(:,10);
-bm = meta(:,12);
-sid = meta(:,21);
-for i=1:N,
+meta = readtable('socialcostcarbon.csv');
+
+weight = meta.censor.*meta.quality;
+scc = meta.SCC;
+prtp = meta.PRTP;
+eis = meta.EIS;
+bm = meta.Impact;
+sid = meta.ID;
+%%
+for i=1:NPaper
     avescc(i) = real(weight(sid==i)'*scc(sid==i));
     aveprtp(i) = real(weight(sid==i)'*prtp(sid==i));
     aveeis(i) = real(weight(sid==i)'*eis(sid==i));
@@ -271,7 +349,7 @@ for i=1:N,
     sdscc(i) = real(sqrt(weight(sid==i)'*(scc(sid==i).*scc(sid==i)) - avescc(i)^2));
 end
 
-for pos=1:N,
+for pos=1:NPaper
     disp(pos)
     %pos = find(strcmp(ID{p},H.Nodes{:,1}));
     %pos = p;
@@ -286,11 +364,11 @@ for pos=1:N,
     published = year<=year(pos);
     cited = zeros(N,1);
     aware = zeros(N,1);
-    for i=1:N,
-        for j=1:N1,
+    for i=1:NPaper
+        for j=1:N1
             cited(i) = cited(i)|strcmp(G1.Nodes.Name{j},H.Nodes.Name{i});
         end
-        for j=1:N2,
+        for j=1:N2
             aware(i) = aware(i)|strcmp(G2.Nodes.Name{j},H.Nodes.Name{i});
         end
     end
@@ -409,43 +487,3 @@ for i=1:length(avecited)
     IDN(i) = i;
 end
 toStata = [IDN' year avescc' avecited' aveaware' avenot' published cited aware notcited aveprtp' prtpcited' prtpaware' prtpnot' aveeis' eiscited' eisaware' eisnot' avebm' bmcited' bmaware' bmnot' out];
-
-%% from authors to papers
-concordance = csvread('concordance.csv');
-concid = concordance(idsave,:);
-bins = conncomp(A1);
-maxb = max(bins);
-for i=1:maxb
-    aux = max(concid(bins==i,:))==1;
-    subav(i) = mean(avescc(aux));
-    subse(i) = std(avescc(aux))/sqrt(sum(aux));
-end
-
-%% clustering
-A = full(adjacency(H));
-
-PID = 1;
-for i=2:length(ID)
-    PID(i) = PID(i-1)+1;
-end
-
-t = fitctree(A,PID);
-
-view(t,'Mode','graph')
-
-%%
-pos = contains(H.Nodes{:,1},'Nordhaus');
-NG = subgraph(H,pos);
-p = plot(NG,'Layout',layout,'NodeLabel',NG.Nodes.Name);
-title('Nordhaus citing Nordhaus')
-set(gcf,'units','points','position',[0,0,1440,720])
-
-%%
-dist = distances(H);
-
-pos = find(strcmp('Golosov (2014 Ectra)',H.Nodes{:,1}));
-idx = isfinite(dist(pos,:));
-GG = subgraph(H,idx);
-p = plot(GG,'Layout',layout,'NodeLabel',GG.Nodes.Name);
-title('Papers citing Golosov et al. (Econometrica 2014)')
-set(gcf,'units','points','position',[0,0,1440,720])
