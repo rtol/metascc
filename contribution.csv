@@ -1,612 +1,871 @@
-1,0.5,0,Robert U. Ayres
-1,0.5,0,Jorg Walters
-3,3,0,William R. Cline
-4,3.5,0,Samuel Fankhauser
-2,1.5,0,David W. Pearce
-4,3.5,0,Olav Hohmeyer
-1,0.5,0,Michael Gaertner
-3,2.333333333,0,John Haraden
-1,0.333333333,0,Stanford S. Penner
-1,0.333333333,0,Stephen P. Mates
-1,1,0,Ian W.H. Parry
-5,2.5,0,Stephen C. Peck
-5,2.5,0,Thomas J. Teisberg
-2,0.625,0,John M. Reilly
-1,0.5,0,Keith R. Richards
-2,2,0,David J. Maddison
-1,0.5,1,Erica Plambeck
-25,18.08095238,0,Chris W. Hope
-1,0.333333333,1,Kum Yeen Wong
-1,0.333333333,0,Joon Huang Chuah
-1,1,0,Michael J. Schauer
-5,2,0,Christian Azar
-5,1.5,0,Thomas P. Sterner
-6,2.021428571,0,Thomas E. Downing
-2,0.45,0,Nick Eyre
-1,0.25,0,Robert A. Greener
-1,0.25,0,David Blackwell
-1,0.5,0,Philip Maul
-40,36.125,0,William D. Nordhaus
-1,0.5,0,Zili Yang
-2,1.5,0,David C. Popp
-2,1.333333333,0,Richard B. Howarth
-1,1,0,Erik F. Haites
-1,1,0,Harry Audus
-1,0.2,0,Roger Hoekstra
-1,0.25,1,Changjing Ji
-43,22.93809524,0,Richard S.J. Tol
-5,2.333333333,0,In Chang Hwang
-2,0.666666667,1,Marjan W. Hofkes
-2,0.666666667,0,Frederic Reynes
-1,0.2,0,Klaus Rennings
-1,0.5,0,Tim Roughgarden
-2,1,0,Stephen H. Schneider
-1,0.5,0,Joseph Boyer
-1,0.5,0,David L. Kelly
-1,0.5,0,Charles D. Kolstad
-1,0.5,0,Richard Clarkson
-1,0.5,1,Kathryn Deyes
-3,1.571428571,0,Paul Watkiss
-5,1.467720685,0,Richard G. Newell
-7,3.467720685,0,William A. Pizer
-1,1,0,Hirofumi Uzawa
-1,0.5,0,P. Michael Link
-1,1,0,Alan S. Manne
-1,0.5,0,Thomas Heinzow
-2,0.5,1,Megan Ceronsky
-28,9.99748259,0,David Anthoff
-6,1.404761905,0,Cameron J. Hepburn
-2,0.321428571,1,Jian Guo
-1,0.5,0,Mohammed Wahba
-1,0.071428571,1,Ruth Butterfield
-1,0.071428571,0,Michael J. Grubb
-1,0.071428571,0,Alisdair Hunt
-1,0.071428571,1,Ada Li
-2,0.271428571,0,Anil Markandya
-1,0.2,0,Ramon A. Ortiz
-1,0.2,0,Oleg Lugovoy
-1,0.2,0,James Wang
-1,0.071428571,0,Scott Moss
-1,0.071428571,0,Anthony Nyong
-1,0.5,0,Chris Taylor
-3,2,0,Nicholas H. Stern
-1,0.25,0,Mikhail Golosov
-2,0.583333333,0,John Hassler
-2,0.583333333,0,Per Krusell
-1,0.25,0,Aleh Tsyvinski
-6,5,1,Lint Barrage
-1,0.5,1,Claudia Kemfert
-1,0.5,0,Wolf-Peter Schill
-1,1,0,Brent Sohngen
-3,1.166666667,0,Gary W. Yohe
-4,1.2,0,Daiju Narita
-8,2.766666667,0,Stephen C. Newbold
-4,0.766666667,0,Charles W. Griffits
-3,0.566666667,0,Chris C. Moore
-5,1.1,1,Ann Wolverton
-5,1.1,1,Elizabeth A. Kopits
-1,0.333333333,0,Michael Greenstone
-2,1.5,,EPA
-1,0.5,,DoT
-3,0.783333333,0,Kenneth L. Judd
-5,1.616666667,0,Yongyang Cai
-6,1.866666667,0,Thomas S. Lontzek
-1,0.25,1,Yifan Zhao
-1,0.25,0,Arnab Basu
-1,0.25,0,Karl Schmedders
-8,4.366666667,0,Alex L. Marten
-3,0.783333333,0,Timothy M. Lenton
-5,2.333333333,0,Frank Ackerman
-1,0.5,0,Ian J. Finlayson
-2,0.833333333,1,Elizabeth A. Stanton
-2,1,0,Charles Munitz
-5,1.333333333,0,Steven K. Rose
-4,1,1,Stephanie Waldhoff
-3,0.783333333,0,Baptise Perrisin Fabert
-3,0.783333333,0,Patrice Dumas
-1,0.333333333,0,Jean-Charles Hourcade
-1,0.5,1,Laurie T. Johnson
-1,0.5,0,W.J. Wouter Botzen
-2,1,0,Jeroen C.J.M. van den Bergh
-1,0.25,0,Robert E. Kopp
-3,0.95,0,Alexander Golub
-1,0.25,0,Nathaniel O. Keohane
-1,0.25,0,Chikara Onda
-1,0.333333333,0,Ramon Bueno
-1,0.5,1,Elisa Belfiori
-18,8.583333333,0,Armon Rezai
-2,0.666666667,0,Duncan K. Foley
-2,0.666666667,0,Lance Taylor
-2,0.533333333,0,Jonathan Pycroft
-2,0.533333333,1,Lucia Vergano
-1,0.2,0,Daniele Paci
-1,0.2,0,Juan Carlos Ciscar
-1,0.5,0,Matthew Hope
-4,4,,IAWGSCC
-2,1.333333333,0,Drew T. Shindell
-1,0.333333333,0,Jan S. Fuglestvedt
-1,0.333333333,0,William J. Collins
-4,1.283333333,0,Antonin Pottier
-2,0.45,0,Etienne Espagne
-1,0.333333333,0,Michael D. Gerst
-1,0.333333333,0,Mark E. Borsuk
-2,0.4,1,Elisabeth J. Moyer
-1,0.2,0,Mark D. Woolley
-2,0.4,0,Nathan J. Matteson
-2,0.4,0,Michael J. Glotter
-1,0.2,0,Raymond T. Pierrehumbert
-1,0.2,0,Joshua W. Elliott
-1,0.2,0,David A. Weisbach
-3,1.5,0,Svenn Jensen
-12,7.5,0,Christian P. Traeger
-2,1,0,Benjamin Crost
-1,1,0,Martin L. Weitzman
-6,3,0,Simon Dietz
-4,1.293478261,1,Frances C. Moore
-4,1.126811594,1,Delavane B. Diaz
-28,14.91666667,0,Frederick van der Ploeg
-3,1.833333333,0,Stan Olijslagers
-2,0.833333333,0,Sweder van Wijnbergen
-2,0.666666667,0,Cees Withagen
-5,2.5,0,Aart de Zeeuw
-1,0.333333333,0,Wei Jin
-1,0.333333333,0,Lin Zhang
-1,0.5,0,Paul Sztorc
-2,1,0,Peter H. Howard
-2,0.583333333,1,Inge van den Bijgaart
-7,3.25,0,Reyer Gerlagh
-1,0.25,0,Luuk Korsten
-4,1.583333333,0,Matti Liski
-6,4,0,Derek Lemoine
-1,0.5,0,Geoffrey M. Heal
-2,1,0,Antony Millner
-7,2.417857143,0,Francis Dennig
-6,1.417857143,0,Mark B. Budolfson
-4,0.667857143,0,Marc Fleurbaey
-4,0.667857143,0,Asher Siebert
-3,0.525,0,Robert H. Socolow
-1,0.5,0,Kazushi Hatase
-1,0.5,0,Shunsuke Managi
-5,1.5,0,Mark C. Freeman
-9,2.55952381,0,Ben Groom
-3,0.75,1,Ekaterini Panopoulou
-3,0.75,0,Theologos Pantelidis
-1,0.166666667,0,Matthew Adler
-2,0.291666667,1,Valentina Bosetti
-1,0.166666667,0,Greg Garner
-1,0.166666667,0,Klaus Keller
-1,0.166666667,0,Nicolas Treich
-2,0.458333333,0,Geoffrey J. Blanford
-3,1.166666667,0,Kevin Dayaratna
-3,1.166666667,0,Ross McKitrick
-1,0.333333333,0,David Kreutzer
-3,0.924242424,0,Johannes Emmerling
-3,1.5,0,Lucas Bretschger
-2,1,0,Christos Karydas
-1,0.5,1,Aimilia Pattakou
-1,0.5,1,Alexandra Brausmann
-4,1.416666667,1,Zaili Zhen
-4,1.416666667,0,Lixin Tian
-2,0.666666667,0,Qian Ye
-2,0.361111111,1,Pu Yang
-1,0.111111111,0,Yun-Fei Yao
-1,0.111111111,0,Zhifu Mi
-1,0.111111111,0,Yun-Fei Cao
-2,0.361111111,0,Hua Liao
-1,0.111111111,1,Bi-Ying Yu
-1,0.111111111,1,Qiao-Mei Liang
-1,0.111111111,1,D Maris Coffman
-1,0.111111111,0,Yi-Ming Wei
-2,0.267857143,0,Dean Spears
-3,0.517857143,0,Noah Scovronick
-2,0.267857143,0,Fabian Wagner
-1,0.25,1,Katharine Ricke
-3,0.37539185,0,Laurent Drouet
-1,0.25,0,Ken Caldeira
-2,0.583333333,0,Massimo Tavoni
-1,1,0,John Quiggin
-1,1,0,Samuel J. Okullo
-2,0.666666667,0,Salman Hafeez
-6,1.616666667,0,Stephen R. Weller
-6,1.616666667,0,Christopher M. Kellett
-4,1.25,0,Martin C. Hansel
-3,0.924242424,0,Martin F. Quaas
-1,1,0,Matthew J. Kotchen
-1,0.333333333,0,Patrick J. Michaels
-1,0.25,0,Uris Baldos
-1,0.25,0,Thomas W. Hertel
-1,0.5,0,Michael Brody
-1,0.333333333,0,Kent D. Daniel
-1,0.333333333,0,Robert B. Litterman
-2,0.583333333,0,Gernot Wagner
-1,0.2,0,Thomas F. Coleman
-1,0.2,1,Nicole S. Dumont
-1,0.2,1,Wanqi Li
-1,0.2,0,Wenbin Liu
-1,0.2,0,Alexey Rubtsov
-1,1,0,Tommi Ekholm
-4,0.95,0,Timm Faulwasser
-1,0.166666667,0,Philipp Braun
-2,0.366666667,0,Lars Grune
-2,0.366666667,0,Willi Semmler
-1,0.25,0,Robin Nydestedt
-3,1.166666667,1,Celine Guivarch
-3,1,0,Christoph Hambel
-3,1,0,Holger Kraft
-2,0.666666667,0,Eduardo Schwartz
-1,0.5,0,Derek Sylvan
-1,0.25,1,Maddalena Ferrana
-1,0.333333333,0,Milad E. Naeini
-1,0.333333333,0,Benjamin D. Leibowicz
-1,0.333333333,0,J. Eric Bickel
-1,1,1,Sandra Gschnaller
-3,0.75,0,Moritz A. Drupp
-3,0.5,0,Daniel J.A. Johansson
-2,0.25,0,Frikk Nesje
-1,0.5,0,Bernardo A. Bastien-Olvera
-2,0.642857143,0,Matthias Kalkuhl
-1,0.5,1,Leonie Wenz
-2,0.833333333,1,Veronica Lupi
-1,0.5,0,Simone Marsiglio
-2,0.666666667,0,Nicolas Taconet
-1,0.2,0,Laurence Kotlikoff
-1,0.2,0,Felix Kubler
-1,0.2,0,Andrey Polbin
-1,0.2,0,Jeffrey Sachs
-1,0.2,0,Simon Scheidegger
-2,1,0,Niko Jaakkola
-2,2,0,Robert S. Pindyck
-1,0.142857143,0,Jarmo S. Kikstra
-1,0.142857143,0,Paul Waidelich
-2,0.392857143,0,James Rising
-1,0.142857143,0,Dmitry Yumashev
-1,0.142857143,0,Chris M. Brierley
-2,0.392857143,0,Thomas Stoerk
-5,1.55952381,0,Frank Venmans
-1,0.142857143,0,Andrew Balmford
-1,0.142857143,0,Srinivasan Keshav
-1,0.142857143,0,David Coomes
-1,0.142857143,0,Anil Madhavapeddy
-1,0.142857143,0,Tom Swinfield
-1,0.5,0,Ton S. van den Bremer
-1,0.333333333,0,Aobo Liu
-1,0.333333333,1,Yating Chen
-1,0.333333333,0,Xiao Cheng
-4,1.174242424,0,Brian C. Prest
-1,0.25,1,Alyssa R. Russell
-1,0.25,0,G. Cornelis van Kooten
-1,0.25,0,Jonathan G. Izett
-1,0.25,0,Mark E. Eiswerth
-1,0.5,0,Felix Koninx
-3,0.634387352,0,Kevin Rennert
-3,0.634387352,1,Cora Kingdon
-3,0.384387352,1,Lisa Rennels
-2,0.134387352,0,Roger Cooke
-2,0.134387352,0,Adrian E. Raftery
-2,0.134387352,1,Hana Sevcikova
-3,0.384387352,0,Frank Errickson
-1,0.043478261,0,Jordan Wingenroth
-1,0.043478261,0,Bryan Parthum
-1,0.043478261,0,David Smith
-1,0.043478261,0,Kevin Cromar
-1,0.043478261,0,Ulrich K. Muller
-1,0.043478261,0,Richard J. Plevin
-1,0.043478261,1,Hannah Sheets
-2,0.543478261,0,James H. Stock
-1,0.043478261,1,Tammy Tan
-1,0.043478261,0,Mark Watson
-1,0.043478261,0,Tony E. Wong
-1,0.333333333,0,Nikolay Khabarov
-1,0.333333333,0,Alexey Smirnov
-1,0.333333333,0,Michael Obersteiner
-2,1,1,Karolina Safarzynska
-1,0.25,0,Tianpeng Wang
-1,0.25,0,Fei Teng
-1,0.25,1,Xu Deng
-1,0.25,0,Jun Xie
-3,0.358766234,1,Franziska Piontek
-4,0.552339901,0,Elmar Kriegler
-1,0.25,0,Matthias G.W. Schmidt
-1,0.25,0,Hermann Held
-1,0.25,0,Alexander Lorenz
-2,0.267857143,0,Anselm Schultes
-3,0.733766234,0,Marian Leimbach
-2,0.267857143,0,Ottmar Edenhofer
-1,0.142857143,0,Nico Bauer
-1,0.125,0,Bjoern Soergel
-2,0.159482759,0,Joeri Rogelj
-1,0.125,1,Lavinia Baumstark
-2,0.159482759,0,Gunnar Luderer
-1,0.5,0,Kevin R. Kaushal
-2,0.6,0,Stale Navrud
-1,0.1,0,Luke Brander
-1,0.1,0,El Hadji Fall
-1,0.1,0,Rainer Friedrich
-1,0.1,0,Stefan Hirschberg
-1,0.1,0,Onno Kuik
-1,0.1,1,Kristin Magnussen
-1,0.1,0,Philipp Preiss
-1,0.1,0,Ari Rabl
-1,0.1,0,Bob van der Zwaan
-1,0.25,0,Min Fu
-1,0.25,0,Yixiang Zhang
-1,0.333333333,1,Desy Caesary
-1,0.333333333,1,Hana Kim
-1,0.333333333,0,Myung Jin Nam
-1,0.25,0,Christopher J. Smith
-1,0.25,0,Alaa Al Khourdajie
-1,0.25,1,Doris Folini
-1,0.333333333,0,Roweno Heijmans
-1,0.333333333,0,Kozo Torasan Mayumi
-2,0.583333333,0,Marzio Galeotti
-1,0.25,0,Roberto Roson
-1,0.25,0,Emanuele Borgonovo
-1,0.25,0,Barry Anderson
-1,0.5,0,Wolfram Krewitt
-1,0.5,1,Barbara Schlomann
-4,4,,UBA
-1,0.5,0,Johannes Koch
-1,1,0,Dominique van der Mensbrugghe
-2,0.424242424,0,Wilfried Rickels
-2,0.424242424,0,Felix Meier
-1,0.090909091,1,Sonja Peterson
-1,0.090909091,1,Sina Ruhland
-1,0.090909091,1,Sneha Thube
-1,0.090909091,0,Johannes Karstensen
-1,0.090909091,1,Conny Posern
-1,0.090909091,1,Claudia Wolff
-1,0.090909091,0,Athanasios T. Vafeidis
-1,0.090909091,1,Patricia Grasse
-1,0.333333333,0,Jonas Nycander
-1,0.25,1,Masako Ikefuji
-1,0.25,0,Roger J. Laeven
-1,0.25,0,Jan R. Magnus
-1,0.25,0,Chris Muris
-1,0.5,1,Domenica Czyz
-3,0.674242424,0,Kaj-Ivar van der Wijst
-3,0.674242424,0,Andries F. Hof
-4,0.708725183,0,Detlef P. van Vuuren
-1,0.25,0,Shridhar Kulkarni
-3,1.833333333,0,Terrence Iverson
-1,0.333333333,0,Scott Denning
-1,0.333333333,0,Sammy Zahran
-1,0.5,0,Larry Karp
-1,0.25,0,Jorge Garcia Martin
-1,0.333333333,0,Romain Fillon
-1,0.2,0,Franck Nadaud
-1,0.333333333,0,Richard Price
-1,0.333333333,0,Simeon Thornton
-1,0.333333333,0,Stephen Nelson
-1,0.125,0,Kenneth Gillingham
-1,0.125,0,Peter Christensen
-1,0.125,0,Haewon McJeon
-1,0.5,0,Michael D. Mastandrea
-2,0.5,1,Phoebe Koundouri
-1,0.333333333,0,Loic Berger
-1,0.5,0,Michael D. Bauer
-1,0.5,0,Glenn D. Rudebusch
-1,1,0,David von Below
-1,1,0,Ivan Rudik
-2,0.666666667,0,Nick Hanley
-1,0.5,0,Dugald Tinch
-1,1,0,R. Daniel Bressler
-1,1,0,Woo-Sik Sohn
-1,0.2,0,Alexander Otto
-1,0.2,0,Benjamin J. Todd
-1,0.2,0,Niel Bowerman
-1,0.2,0,David J. Frame
-2,1.2,0,Myles R. Allan
-2,1,0,Elmar Hillebrand
-2,1,0,Marten Hillebrand
-2,1,0,Jonghyun Yoo
-1,0.5,0,Mikel Gonzalez-Equino
-1,0.5,0,Mark B. Neumann
-2,0.236111111,0,Xuanming Su
-2,0.236111111,0,Kiyoshi Takahashi
-3,0.27059387,0,Shinichiro Fujimori
-1,0.111111111,1,Tomoko Hasegawa
-2,0.236111111,0,Katsumasa Tanaka
-1,0.111111111,0,Etsushi Kato
-1,0.111111111,0,Hideo Shiogama
-1,0.111111111,0,Toshihiko Masui
-1,0.111111111,0,Seita Emori
-1,0.125,0,Tokuta Yokohata
-1,0.125,0,Jun’ya Takakura
-1,0.125,0,Weiwei Xiong
-1,0.125,0,Rintaro Yamaguchi
-1,0.5,1,Elettra Agliardi
-4,2,0,Anastasios Xepapadeas
-1,0.333333333,0,Jinchi Dong
-2,0.583333333,0,Fangzhi Wang
-1,1,1,Louise Kessler
-2,1,0,Aapo Rautiainen
-2,1,0,Jussi Lintunen
-2,2,1,Disa Asplund
-1,0.5,0,John C.V. Pezzey
-1,0.5,0,Paul J. Burke
-3,1.333333333,0,William Brock
-1,0.333333333,0,Michael Barnett
-1,0.333333333,0,Lars Peter Hansen
-1,0.5,0,Lawrence H. Goulder
-1,0.5,0,Koshy Mathai
-1,0.5,,NYSERDA
-1,0.5,,RFF
-1,0.5,0,Thomas Dangl
-1,0.5,0,Franz Wirl
-1,0.333333333,0,Xin Li
-1,0.333333333,0,Borghan Narajabad
-1,0.333333333,0,Ted Temzelides
-4,0.685714286,1,Elena A. Mikhailova
-2,0.285714286,0,Hamdi A. Zurqani
-2,0.285714286,1,Lili Lin
-2,0.285714286,0,Zhenbang Hao
-4,0.685714286,0,Christopher J. Post
-4,0.685714286,0,Mark A. Schlautman
-2,0.342857143,0,Gregory C. Post
-2,0.4,0,Garth R. Groshans
-1,0.2,1,Lisha Zhang
-1,0.142857143,1,Camryn E. Brown
-1,0.5,0,Stefan Gossling
-1,0.5,0,Andreas Humpe
-1,0.333333333,0,Syed M. Hasan
-1,0.333333333,0,Abdur R. Shahid
-1,0.333333333,0,Ahmed Imteaj
-1,1,0,Cristian Mardones
-1,0.166666667,1,Tao Zhang
-1,0.166666667,0,Guozhi Peng
-1,0.166666667,0,Yanwei Zhang
-1,0.166666667,0,Shaobo Xie
-1,0.166666667,0,Fengqi Zhang
-1,0.166666667,0,Serdar Coskun
-2,0.533333333,0,Hemant Bherwani
-1,0.333333333,0,Tuhin Banerji
-1,0.333333333,0,Ratish Menon
-1,0.2,0,Ankit Gupta
-1,0.2,0,Moorthy M. Nair
-1,0.2,1,Himani Sonwane
-1,0.2,0,Rakesh Kumar
-1,0.2,1,Florencia B. Pulhin
-1,0.2,1,Angelica T. Magpantay
-1,0.2,0,Nico R. Almerines
-1,0.2,0,Canesio D. Predo
-1,0.2,0,Juan M. Pulhin
-1,0.5,0,Okan Kon
-1,0.5,0,Ismail Caner
-1,0.142857143,1,Andrea Lucchesi
-1,0.142857143,1,Madhu Khanna
-1,0.142857143,1,Paula C. Pareda
-1,0.142857143,1,Keyi A. Ussami
-1,0.142857143,1,Patricia G.C. Ruggieri
-1,0.142857143,0,Victor S. Dornelas
-1,0.142857143,1,Tess Lallement
-1,0.166666667,1,Melissa Cusack Striepe
-1,0.166666667,0,Alexandre Milanoff
-1,0.166666667,0,Amir F.N. Abdul-Manan
-1,0.166666667,0,Jon McKechnie
-1,0.166666667,0,I. Daniel Posen
-1,0.166666667,1,Heather L. MacLean
-1,1,0,Robert Loube
-1,0.5,0,Adil Farooq
-1,0.5,0,Omer Necati Cora
-1,1,0,Portland
-1,0.5,0,Andrea Molocchi
-1,0.5,0,Giulio Mela
-1,0.071428571,0,Mattia di Russo
-1,0.071428571,1,Aurora Heidar Alizadeh
-1,0.071428571,0,Mario Cesare Nurchis
-1,0.071428571,0,Silvio Capizzi
-1,0.071428571,1,Constanza Cavuto
-1,0.071428571,1,Ornella di Bella
-1,0.071428571,0,Giovanni di Piazza
-1,0.071428571,0,Alessio Figini
-1,0.071428571,0,Daniele Ignazio la Milia
-1,0.071428571,1,Gabriela Nasi
-1,0.071428571,1,Martina Sapienza
-1,0.071428571,0,Aldo Rosano
-1,0.071428571,0,Walter Ricciardi
-1,0.071428571,1,Chiara Cadeddu
-1,0.5,1,Maryam al-Jabir
-1,0.5,1,Rima J. Isaifan
-1,1,0,Patrick Bond
-1,1,,MnPUC
-1,0.2,1,Alicia Hoffman
-1,0.2,0,Unni Kurumbail
-1,0.2,0,Noah Rhodes
-1,0.2,0,Jamey Anderson
-1,0.2,0,Robert Anex
-1,0.2,0,Razieh Shafiei-Alavijeh
-1,0.2,0,Michel Eppink
-1,0.2,0,Joeri F.M. Denayer
-1,0.2,1,Eveline Peeters
-1,0.2,0,Keikhosro Karimi
-1,0.333333333,0,Haider Ibrahim
-1,0.333333333,0,Gohar Alam
-1,0.333333333,0,Ahmed Faheem
-1,0.333333333,0,Weizhen Meng
-1,0.333333333,0,Shilin Li
-2,0.666666667,0,Jinqiang Yang
-1,0.2,1,Poulami Sen
-1,0.2,0,Sudipto Mandal
-1,0.2,0,Phani Bhusan Ghosh
-1,0.2,0,Soumyendra Kishore Datta
-1,0.2,0,Nimai Chandra Saha
-2,0.5,1,Tiruwork B. Tibebu
-2,0.5,0,Eric Hittinger
-2,0.5,1,Qing Miao
-2,0.5,0,Eric Williams
-1,0.25,0,Hugo Fiestas-Chevez
-1,0.25,0,Juan Manuel Roldan-Fernandez
-1,0.25,0,Angel Luis Trigo-Garcia
-1,0.25,0,Manuel Burgos-Payan
-1,0.333333333,0,Meliz Hastunc
-1,0.333333333,0,Mehmet Senol
-1,0.333333333,0,Serkan Abbasoglu
-2,0.291666667,0,Thomas Knoke
-1,0.166666667,1,Rosa Maria Roman-Cuesta
-1,0.166666667,1,Carola Paul
-1,0.125,0,Baltazar Calvas
-1,0.125,1,Luz Maria Castro
-1,0.125,0,Logan Bingham
-1,0.125,0,Mengistie Kindu
-1,0.125,1,Karla Pintado
-1,0.125,0,Jonathan Torres Celi
-1,0.125,0,Jorge Cueva Ortiz
-1,0.25,1,Xinran Wu
-1,0.25,1,Tracey Holloway
-1,0.25,0,Paul Meier
-1,0.25,0,Morgan Edwards
-1,0.5,0,Zenebe Ageru Yilma
-1,0.5,0,Bialfew Ashagrie Yitay
-1,0.142857143,0,Min Gon Chung
-1,0.142857143,0,Han Guo
-1,0.142857143,1,Charity Nyelele
-1,0.142857143,1,Benis N. Egoh
-1,0.142857143,0,Michael L. Goulden
-1,0.142857143,1,Catherine M. Keske
-1,0.142857143,0,Roger C. Bales
-1,0.333333333,1,Li Jiang
-1,0.333333333,0,Yoonhong Yi
-1,0.333333333,1,Neslihan Akdeniz
-1,0.25,0,Tommaso Coppola
-1,0.25,0,Luca Micoli
-1,0.25,1,Roberta Russo
-1,0.25,0,Guiseppe Zagaria
-1,0.166666667,1,Phitsinee Muangjai
-1,0.166666667,0,Wongkot Wongsapai
-1,0.166666667,1,Tassawan Jaitiang
-1,0.166666667,0,Chaichan Ritkrerkkrai
-1,0.166666667,1,Sopit Daroon
-1,0.166666667,1,Waranya Thepsaskul
-1,0.5,0,Zhentao Zou
-1,0.5,0,Yingjie Niu
-1,0.034482759,0,Christoph Bertram
-1,0.034482759,1,Elina Brutschin
-1,0.034482759,0,Bas van Ruijven
-1,0.034482759,1,Lara Aleluia Reis
-1,0.034482759,0,Luiz Bernardo Baptista
-1,0.034482759,0,Harmen-Sytze de Boer
-1,0.034482759,1,Ryna Cui
-1,0.034482759,0,Vassilis Daioglou
-1,0.034482759,0,Florian Fosse
-1,0.034482759,0,Dimitris Fragkiadakis
-1,0.034482759,0,Oliver Fricko
-1,0.034482759,0,Nate Hultman
-1,0.034482759,0,Gokul Iyer
-1,0.034482759,0,Kimon Keramidas
-1,0.034482759,0,Volker Krey
-1,0.034482759,1,Robin D. Lamboll
-1,0.034482759,1,Rahel Mandaroux
-1,0.034482759,0,Pedro Rochedo
-1,0.034482759,0,Roberto Schaeffer
-1,0.034482759,0,Diego Silva
-1,0.034482759,1,Isabela Tagomori
-1,0.034482759,1,Zoi Vrontisi
-1,0.034482759,0,Keywan Riahi
-1,0.090909091,0,Francesco Bosello
-1,0.090909091,0,Shouro Dasgupta
-1,0.090909091,0,Ramiro Parrado
-1,0.090909091,0,Gabriele Standardi
-1,0.333333333,0,Harrison Hong
-1,0.333333333,0,Neng Wang
-1,1,0,Steven Poelhekke
-5,4,0,Robert O. Mendelsohn
+1,0.5,0,594.1757814,Robert U. Ayres
+1,0.5,0,594.1757814,Jorg Walters
+3,3,0,280.2734481,William R. Cline
+4,3.5,0,83.18133741,Samuel Fankhauser
+2,1.5,0,70.06948068,David W. Pearce
+4,3.5,0,2820.68203,Olav Hohmeyer
+1,0.5,0,5154.951161,Michael Gaertner
+3,2.333333333,0,66.71459088,John Haraden
+1,0.333333333,0,84.74522994,Stanford S. Penner
+1,0.333333333,0,84.74522994,Stephen P. Mates
+1,1,0,153.4357475,Ian W.H. Parry
+5,2.5,0,60.37471235,Stephen C. Peck
+5,2.5,0,60.37471235,Thomas J. Teisberg
+2,0.625,0,107.4592281,John M. Reilly
+1,0.5,0,129.4842809,Keith R. Richards
+2,2,0,45.55574515,David J. Maddison
+1,0.5,1,323.6572794,Erica Plambeck
+26,18.41428571,0,498.8591613,Chris W. Hope
+2,0.666666667,1,656.1080792,Kum Yeen Wong
+2,0.666666667,0,656.1080792,Joon Huang Chuah
+1,1,0,285.6554503,Michael J. Schauer
+5,2,0,994.7957848,Christian Azar
+5,1.5,0,912.6000852,Thomas P. Sterner
+6,2.021428571,0,185.1089327,Thomas E. Downing
+2,0.45,0,294.601905,Nick Eyre
+1,0.25,0,154.0369223,Robert A. Greener
+1,0.25,0,154.0369223,David Blackwell
+1,0.5,0,73.96768284,Philip Maul
+40,36.125,0,262.8596865,William D. Nordhaus
+1,0.5,0,24.1213617,Zili Yang
+2,1.5,0,39.66125586,David C. Popp
+2,1.333333333,0,265.6693286,Richard B. Howarth
+1,1,0,166.1991568,Erik F. Haites
+1,1,0,162.0138003,Harry Audus
+1,0.2,0,435.1668877,Roger Hoekstra
+1,0.25,1,828.1243493,Changjing Ji
+46,23.8547619,0,223.4726799,Richard S.J. Tol
+5,2.333333333,0,208.1048955,In Chang Hwang
+2,0.666666667,1,364.8416343,Marjan W. Hofkes
+2,0.666666667,0,116.0314679,Frederic Reynes
+1,0.2,0,435.1668877,Klaus Rennings
+1,0.5,0,121.3872087,Tim Roughgarden
+2,1,0,156.8461913,Stephen H. Schneider
+1,0.5,0,25.33148929,Joseph Boyer
+1,0.5,0,22.80160132,David L. Kelly
+1,0.5,0,22.80160132,Charles D. Kolstad
+1,0.5,0,340.6896695,Richard Clarkson
+1,0.5,1,340.6896695,Kathryn Deyes
+3,1.571428571,0,328.6669695,Paul Watkiss
+5,1.467720685,0,430.3046666,Richard G. Newell
+8,3.967720685,0,342.0404508,William A. Pizer
+1,0.5,1,525.1162783,Qingran Li
+1,1,0,475.301833,Hirofumi Uzawa
+1,0.5,0,233.0624559,P. Michael Link
+1,1,0,257.3195985,Alan S. Manne
+1,0.5,0,17.02518191,Thomas Heinzow
+2,0.5,1,236.707703,Megan Ceronsky
+28,9.99748259,0,361.8576931,David Anthoff
+6,1.404761905,0,163.3476775,Cameron J. Hepburn
+2,0.321428571,1,164.8456184,Jian Guo
+1,0.5,0,126.8851813,Mohammed Wahba
+1,0.071428571,1,150.1030991,Ruth Butterfield
+1,0.071428571,0,150.1030991,Michael J. Grubb
+1,0.071428571,0,150.1030991,Alisdair Hunt
+1,0.071428571,1,150.1030991,Ada Li
+2,0.271428571,0,128.3134717,Anil Markandya
+1,0.2,0,106.5238443,Ramon A. Ortiz
+1,0.2,0,106.5238443,Oleg Lugovoy
+1,0.2,0,106.5238443,James Wang
+1,0.071428571,0,150.1030991,Scott Moss
+1,0.071428571,0,150.1030991,Anthony Nyong
+1,0.5,0,298.2344005,Chris Taylor
+3,2,0,517.8585676,Nicholas H. Stern
+1,0.25,0,641.0861062,Mikhail Golosov
+2,0.583333333,0,504.2007215,John Hassler
+2,0.583333333,0,504.2007215,Per Krusell
+1,0.25,0,641.0861062,Aleh Tsyvinski
+6,5,1,291.3951936,Lint Barrage
+1,0.5,1,191.8059199,Claudia Kemfert
+1,0.5,0,191.8059199,Wolf-Peter Schill
+2,1.333333333,0,511.071775,Brent Sohngen
+1,0.333333333,1,905.4064044,Yining Wu
+1,0.333333333,0,905.4064044,Eric C. Davis
+3,1.166666667,0,624.9241009,Gary W. Yohe
+4,1.2,0,269.3259931,Daiju Narita
+8,2.766666667,0,192.4176993,Stephen C. Newbold
+4,0.766666667,0,265.9823191,Charles W. Griffits
+3,0.566666667,0,265.6035869,Chris C. Moore
+5,1.1,1,247.8695869,Ann Wolverton
+5,1.1,1,247.8695869,Elizabeth A. Kopits
+1,0.333333333,0,175.4186581,Michael Greenstone
+2,1.5,0,619.2524553,EPA
+1,0.5,0,182.6157062,DoT
+3,0.783333333,0,332.2246794,Kenneth L. Judd
+5,1.616666667,0,399.9095474,Yongyang Cai
+6,1.866666667,0,509.3899926,Thomas S. Lontzek
+1,0.25,1,1056.792218,Yifan Zhao
+1,0.25,0,1056.792218,Arnab Basu
+1,0.25,0,1056.792218,Karl Schmedders
+8,4.366666667,0,159.5011117,Alex L. Marten
+3,0.783333333,0,549.0507133,Timothy M. Lenton
+5,2.333333333,0,425.6933936,Frank Ackerman
+1,0.5,0,272.184169,Ian J. Finlayson
+2,0.833333333,1,474.7893488,Elizabeth A. Stanton
+2,1,0,453.3520507,Charles Munitz
+5,1.333333333,0,178.3203825,Steven K. Rose
+4,1,1,164.6005193,Stephanie Waldhoff
+3,0.783333333,0,153.1064182,Baptise Perrisin Fabert
+3,0.783333333,0,153.1064182,Patrice Dumas
+1,0.333333333,0,168.5380583,Jean-Charles Hourcade
+1,0.5,1,212.6939605,Laurie T. Johnson
+3,1.083333333,0,774.7976044,W.J. Wouter Botzen
+2,1,0,95.4655959,Jeroen C.J.M. van den Bergh
+1,0.25,0,213.5794669,Robert E. Kopp
+3,0.95,0,216.0373382,Alexander Golub
+1,0.25,0,213.5794669,Nathaniel O. Keohane
+1,0.25,0,213.5794669,Chikara Onda
+1,0.333333333,0,390.1082599,Ramon Bueno
+1,0.5,1,164.624751,Elisa Belfiori
+18,8.583333333,0,286.3322172,Armon Rezai
+2,0.666666667,0,1020.749667,Duncan K. Foley
+2,0.666666667,0,1020.749667,Lance Taylor
+2,0.533333333,0,1202.61249,Jonathan Pycroft
+2,0.533333333,1,1202.61249,Lucia Vergano
+1,0.2,0,1057.669102,Daniele Paci
+1,0.2,0,1057.669102,Juan Carlos Ciscar
+1,0.5,0,877.7932299,Matthew Hope
+4,4,0,203.433802,IAWGSCC
+2,1.333333333,0,417.611689,Drew T. Shindell
+1,0.333333333,0,565.6474744,Jan S. Fuglestvedt
+1,0.333333333,0,565.6474744,William J. Collins
+4,1.283333333,0,979.8930267,Antonin Pottier
+2,0.45,0,145.3905982,Etienne Espagne
+1,0.333333333,0,95.95618646,Michael D. Gerst
+1,0.333333333,0,95.95618646,Mark E. Borsuk
+2,0.4,1,786.9231052,Elisabeth J. Moyer
+1,0.2,0,615.4531196,Mark D. Woolley
+2,0.4,0,786.9231052,Nathan J. Matteson
+2,0.4,0,786.9231052,Michael J. Glotter
+1,0.2,0,958.3930907,Raymond T. Pierrehumbert
+1,0.2,0,958.3930907,Joshua W. Elliott
+1,0.2,0,615.4531196,David A. Weisbach
+3,1.5,0,169.0326439,Svenn Jensen
+12,7.5,0,211.4008292,Christian P. Traeger
+2,1,0,170.0833947,Benjamin Crost
+1,1,0,924.0237794,Martin L. Weitzman
+7,3.333333333,0,752.1224682,Simon Dietz
+4,1.293478261,1,578.7857103,Frances C. Moore
+4,1.126811594,1,428.5168582,Delavane B. Diaz
+29,15.91666667,0,232.8093867,Frederick van der Ploeg
+3,1.833333333,0,407.1728956,Stan Olijslagers
+2,0.833333333,0,410.1949526,Sweder van Wijnbergen
+2,0.666666667,0,126.2678991,Cees Withagen
+5,2.5,0,225.3390623,Aart de Zeeuw
+1,0.333333333,0,257.0659777,Wei Jin
+1,0.333333333,0,257.0659777,Lin Zhang
+1,0.5,0,221.0833973,Paul Sztorc
+4,2,0,1042.712949,Peter H. Howard
+2,0.583333333,1,506.8731009,Inge van den Bijgaart
+7,3.25,0,531.2462327,Reyer Gerlagh
+1,0.25,0,410.2619638,Luuk Korsten
+4,1.583333333,0,444.624847,Matti Liski
+6,4,0,447.0168495,Derek Lemoine
+1,0.5,0,34.42859147,Geoffrey M. Heal
+2,1,0,280.5905457,Antony Millner
+7,2.417857143,0,333.6758699,Francis Dennig
+6,1.417857143,0,249.2822697,Mark B. Budolfson
+4,0.667857143,0,208.8290302,Marc Fleurbaey
+4,0.667857143,0,208.8290302,Asher Siebert
+3,0.525,0,224.2109076,Robert H. Socolow
+1,0.5,0,70.37144892,Kazushi Hatase
+1,0.5,0,70.37144892,Shunsuke Managi
+5,1.5,0,279.214673,Mark C. Freeman
+9,2.55952381,0,317.1620699,Ben Groom
+3,0.75,1,63.57636904,Ekaterini Panopoulou
+3,0.75,0,63.57636904,Theologos Pantelidis
+1,0.166666667,0,66.90687906,Matthew Adler
+2,0.291666667,1,76.1705272,Valentina Bosetti
+1,0.166666667,0,66.90687906,Greg Garner
+1,0.166666667,0,66.90687906,Klaus Keller
+1,0.166666667,0,66.90687906,Nicolas Treich
+2,0.458333333,0,159.3170053,Geoffrey J. Blanford
+3,1.166666667,0,23.54489309,Kevin Dayaratna
+3,1.166666667,0,23.54489309,Ross McKitrick
+1,0.333333333,0,20.52846362,David Kreutzer
+3,0.924242424,0,370.142511,Johannes Emmerling
+3,1.5,0,138.796317,Lucas Bretschger
+2,1,0,309.0958,Christos Karydas
+1,0.5,1,129.8755534,Aimilia Pattakou
+1,0.5,1,166.2582557,Alexandra Brausmann
+4,1.416666667,1,219.2654347,Zaili Zhen
+4,1.416666667,0,219.2654347,Lixin Tian
+2,0.666666667,0,197.4522837,Qian Ye
+2,0.361111111,1,1116.019721,Pu Yang
+1,0.111111111,0,118.0741269,Yun-Fei Yao
+1,0.111111111,0,118.0741269,Zhifu Mi
+1,0.111111111,0,118.0741269,Yun-Fei Cao
+3,0.694444444,0,408.7364842,Hua Liao
+1,0.111111111,1,118.0741269,Bi-Ying Yu
+1,0.111111111,1,118.0741269,Qiao-Mei Liang
+1,0.111111111,1,118.0741269,D Maris Coffman
+1,0.111111111,0,118.0741269,Yi-Ming Wei
+2,0.267857143,0,157.7148435,Dean Spears
+3,0.517857143,0,206.1357794,Noah Scovronick
+2,0.267857143,0,157.7148435,Fabian Wagner
+1,0.25,1,2675.908807,Katharine Ricke
+3,0.37539185,0,1369.855547,Laurent Drouet
+1,0.25,0,2675.908807,Ken Caldeira
+2,0.583333333,0,1427.439768,Massimo Tavoni
+1,1,0,620.3921741,John Quiggin
+1,1,0,237.9095171,Samuel J. Okullo
+2,0.666666667,0,144.8212777,Salman Hafeez
+6,1.616666667,0,254.9192148,Stephen R. Weller
+6,1.616666667,0,254.9192148,Christopher M. Kellett
+4,1.25,0,646.3792758,Martin C. Hansel
+3,0.924242424,0,371.5389356,Martin F. Quaas
+3,2.5,0,297.2842652,Matthew J. Kotchen
+1,0.5,0,190.0984201,Matthew Ashenfarb
+1,0.333333333,0,16.96409402,Patrick J. Michaels
+1,0.25,0,113.7536238,Uris Baldos
+1,0.25,0,113.7536238,Thomas W. Hertel
+1,0.5,0,328.0087034,Michael Brody
+1,0.333333333,0,759.3519571,Kent D. Daniel
+1,0.333333333,0,759.3519571,Robert B. Litterman
+2,0.583333333,0,540.0417522,Gernot Wagner
+1,0.2,0,209.6120803,Thomas F. Coleman
+1,0.2,1,209.6120803,Nicole S. Dumont
+1,0.2,1,209.6120803,Wanqi Li
+1,0.2,0,209.6120803,Wenbin Liu
+1,0.2,0,209.6120803,Alexey Rubtsov
+1,1,0,497.4267565,Tommi Ekholm
+4,0.95,0,309.9681834,Timm Faulwasser
+1,0.166666667,0,338.7110164,Philipp Braun
+2,0.366666667,0,293.6370963,Lars Grune
+2,0.366666667,0,293.6370963,Willi Semmler
+1,0.25,0,439.8592996,Robin Nydestedt
+3,1.166666667,1,1310.793144,Celine Guivarch
+3,1,0,253.1005249,Christoph Hambel
+3,1,0,253.1005249,Holger Kraft
+2,0.666666667,0,161.3764706,Eduardo Schwartz
+4,2.5,0,990.6636543,Derek Sylvan
+1,0.25,1,302.9776512,Maddalena Ferrana
+1,0.333333333,0,162.8860603,Milad E. Naeini
+1,0.333333333,0,162.8860603,Benjamin D. Leibowicz
+1,0.333333333,0,162.8860603,J. Eric Bickel
+1,1,1,422.4303154,Sandra Gschnaller
+3,0.75,0,762.3446541,Moritz A. Drupp
+3,0.5,0,949.666781,Daniel J.A. Johansson
+2,0.25,0,602.9646476,Frikk Nesje
+1,0.5,0,834.2752438,Bernardo A. Bastien-Olvera
+2,0.642857143,0,572.0572417,Matthias Kalkuhl
+1,0.5,1,606.9030574,Leonie Wenz
+4,1.283333333,1,595.110455,Veronica Lupi
+1,0.5,0,215.6220239,Simone Marsiglio
+1,0.2,1,170.7835565,Marta Castellini
+1,0.2,1,170.7835565,Chiara Castelli
+1,0.2,1,170.7835565,Camilla Gusperti
+1,0.2,0,170.7835565,Sergio Vergalli
+2,0.666666667,0,1258.708007,Nicolas Taconet
+1,0.2,0,347.7975616,Laurence Kotlikoff
+2,0.45,0,262.7798215,Felix Kubler
+1,0.2,0,347.7975616,Andrey Polbin
+1,0.2,0,347.7975616,Jeffrey Sachs
+2,0.45,0,262.7798215,Simon Scheidegger
+2,1,0,377.5957343,Niko Jaakkola
+2,2,0,1197.175641,Robert S. Pindyck
+1,0.142857143,0,1186.089216,Jarmo S. Kikstra
+1,0.142857143,0,1186.089216,Paul Waidelich
+2,0.392857143,0,753.4103818,James Rising
+1,0.142857143,0,1186.089216,Dmitry Yumashev
+1,0.142857143,0,1186.089216,Chris M. Brierley
+2,0.392857143,0,753.4103818,Thomas Stoerk
+6,1.892857143,0,474.4598221,Frank Venmans
+1,0.142857143,0,752.5592106,Andrew Balmford
+1,0.142857143,0,752.5592106,Srinivasan Keshav
+1,0.142857143,0,752.5592106,David Coomes
+1,0.142857143,0,752.5592106,Anil Madhavapeddy
+1,0.142857143,0,752.5592106,Tom Swinfield
+1,0.5,0,194.0453128,Ton S. van den Bremer
+1,0.333333333,0,782.3510601,Aobo Liu
+1,0.333333333,1,782.3510601,Yating Chen
+1,0.333333333,0,782.3510601,Xiao Cheng
+4,1.174242424,0,1311.697616,Brian C. Prest
+1,0.25,1,1406.473436,Alyssa R. Russell
+1,0.25,0,1406.473436,G. Cornelis van Kooten
+1,0.25,0,1406.473436,Jonathan G. Izett
+1,0.25,0,1406.473436,Mark E. Eiswerth
+1,0.5,0,219.9538113,Felix Koninx
+3,0.634387352,0,609.9174938,Kevin Rennert
+3,0.634387352,1,609.9174938,Cora Kingdon
+3,0.384387352,1,1793.273774,Lisa Rennels
+2,0.134387352,0,825.652003,Roger Cooke
+2,0.134387352,0,825.652003,Adrian E. Raftery
+2,0.134387352,1,825.652003,Hana Sevcikova
+3,0.384387352,0,1793.273774,Frank Errickson
+1,0.043478261,0,780.5458282,Jordan Wingenroth
+1,0.043478261,0,780.5458282,Bryan Parthum
+1,0.043478261,0,780.5458282,David Smith
+1,0.043478261,0,780.5458282,Kevin Cromar
+1,0.043478261,0,780.5458282,Ulrich K. Muller
+1,0.043478261,0,780.5458282,Richard J. Plevin
+1,0.043478261,1,780.5458282,Hannah Sheets
+2,0.543478261,0,512.6852844,James H. Stock
+1,0.043478261,1,780.5458282,Tammy Tan
+1,0.043478261,0,780.5458282,Mark Watson
+1,0.043478261,0,780.5458282,Tony E. Wong
+1,0.333333333,0,1189.71942,Nikolay Khabarov
+1,0.333333333,0,1189.71942,Alexey Smirnov
+1,0.333333333,0,1189.71942,Michael Obersteiner
+2,1,1,275.5636769,Karolina Safarzynska
+1,0.25,0,183.0361386,Tianpeng Wang
+1,0.25,0,183.0361386,Fei Teng
+1,0.25,1,183.0361386,Xu Deng
+1,0.25,0,183.0361386,Jun Xie
+3,0.358766234,1,535.8833718,Franziska Piontek
+4,0.552339901,0,474.3188626,Elmar Kriegler
+1,0.25,0,9.509984483,Matthias G.W. Schmidt
+1,0.25,0,9.509984483,Hermann Held
+1,0.25,0,9.509984483,Alexander Lorenz
+2,0.267857143,0,515.4394368,Anselm Schultes
+3,0.733766234,0,437.7572692,Marian Leimbach
+2,0.267857143,0,515.4394368,Ottmar Edenhofer
+1,0.142857143,0,537.211426,Nico Bauer
+1,0.125,0,493.6674476,Bjoern Soergel
+2,0.159482759,0,675.2770199,Joeri Rogelj
+1,0.125,1,493.6674476,Lavinia Baumstark
+2,0.159482759,0,675.2770199,Gunnar Luderer
+1,0.5,0,82.41344422,Kevin R. Kaushal
+2,0.6,0,206.8637097,Stale Navrud
+1,0.1,0,331.3139753,Luke Brander
+1,0.1,0,331.3139753,El Hadji Fall
+1,0.1,0,331.3139753,Rainer Friedrich
+1,0.1,0,331.3139753,Stefan Hirschberg
+1,0.1,0,331.3139753,Onno Kuik
+1,0.1,1,331.3139753,Kristin Magnussen
+1,0.1,0,331.3139753,Philipp Preiss
+1,0.1,0,331.3139753,Ari Rabl
+1,0.1,0,331.3139753,Bob van der Zwaan
+1,0.25,0,194.012865,Min Fu
+1,0.25,0,194.012865,Yixiang Zhang
+1,0.333333333,1,2996.527718,Desy Caesary
+2,0.666666667,1,2357.611161,Hana Kim
+2,0.666666667,0,2357.611161,Myung Jin Nam
+2,0.583333333,0,1916.32996,Christopher J. Smith
+1,0.25,0,2113.965315,Alaa Al Khourdajie
+2,0.5,1,1145.863698,Doris Folini
+1,0.333333333,0,914.1515118,Roweno Heijmans
+1,0.333333333,0,914.1515118,Kozo Torasan Mayumi
+2,0.583333333,0,237.1507864,Marzio Galeotti
+1,0.25,0,95.36183933,Roberto Roson
+1,0.25,0,95.36183933,Emanuele Borgonovo
+1,0.25,0,95.36183933,Barry Anderson
+1,0.5,0,1099.479049,Wolfram Krewitt
+1,0.5,1,1099.479049,Barbara Schlomann
+5,5,0,1407.429529,UBA
+1,0.5,0,199.2891398,Johannes Koch
+1,1,0,325.4528023,Dominique van der Mensbrugghe
+2,0.424242424,0,408.066833,Wilfried Rickels
+2,0.424242424,0,408.066833,Felix Meier
+1,0.090909091,1,627.8530473,Sonja Peterson
+1,0.090909091,1,627.8530473,Sina Ruhland
+1,0.090909091,1,627.8530473,Sneha Thube
+1,0.090909091,0,627.8530473,Johannes Karstensen
+1,0.090909091,1,627.8530473,Conny Posern
+1,0.090909091,1,627.8530473,Claudia Wolff
+1,0.090909091,0,627.8530473,Athanasios T. Vafeidis
+1,0.090909091,1,627.8530473,Patricia Grasse
+1,0.333333333,0,367.3153369,Jonas Nycander
+1,0.25,1,259.851245,Masako Ikefuji
+1,0.25,0,259.851245,Roger J. Laeven
+1,0.25,0,259.851245,Jan R. Magnus
+1,0.25,0,259.851245,Chris Muris
+1,0.5,1,442.7354434,Domenica Czyz
+3,0.674242424,0,967.8819624,Kaj-Ivar van der Wijst
+3,0.674242424,0,967.8819624,Andries F. Hof
+4,0.708725183,0,940.1331198,Detlef P. van Vuuren
+1,0.25,0,1470.629699,Shridhar Kulkarni
+3,1.833333333,0,199.175844,Terrence Iverson
+1,0.333333333,0,275.5561837,Scott Denning
+1,0.333333333,0,275.5561837,Sammy Zahran
+1,0.5,0,178.7076808,Larry Karp
+1,0.25,0,1643.071048,Jorge Garcia Martin
+1,0.333333333,0,303.5885214,Romain Fillon
+1,0.2,0,178.6712389,Franck Nadaud
+1,0.333333333,0,460.9077099,Richard Price
+1,0.333333333,0,460.9077099,Simeon Thornton
+1,0.333333333,0,460.9077099,Stephen Nelson
+1,0.125,0,85.43417535,Kenneth Gillingham
+1,0.125,0,85.43417535,Peter Christensen
+1,0.125,0,85.43417535,Haewon McJeon
+1,0.5,0,192.305174,Michael D. Mastandrea
+2,0.5,1,77.14637528,Phoebe Koundouri
+1,0.333333333,0,178.9707296,Loic Berger
+1,0.5,0,1743.060651,Michael D. Bauer
+1,0.5,0,1743.060651,Glenn D. Rudebusch
+1,1,0,89.94366348,David von Below
+1,1,0,121.888567,Ivan Rudik
+2,0.666666667,0,186.4399971,Nick Hanley
+1,0.5,0,145.7096389,Dugald Tinch
+1,1,0,1377.721156,R. Daniel Bressler
+1,1,0,36.39446108,Woo-Sik Sohn
+1,0.2,0,1100.334414,Alexander Otto
+1,0.2,0,1100.334414,Benjamin J. Todd
+1,0.2,0,1100.334414,Niel Bowerman
+1,0.2,0,1100.334414,David J. Frame
+2,1.2,0,639.5334167,Myles R. Allan
+2,1,0,262.9294525,Elmar Hillebrand
+2,1,0,262.9294525,Marten Hillebrand
+2,1,0,188.3599605,Jonghyun Yoo
+1,0.5,0,292.3268021,Mikel Gonzalez-Equino
+1,0.5,0,292.3268021,Mark B. Neumann
+2,0.236111111,0,123.1445034,Xuanming Su
+2,0.236111111,0,123.1445034,Kiyoshi Takahashi
+3,0.27059387,0,367.7251997,Shinichiro Fujimori
+1,0.111111111,1,142.7756889,Tomoko Hasegawa
+2,0.236111111,0,123.1445034,Katsumasa Tanaka
+1,0.111111111,0,142.7756889,Etsushi Kato
+1,0.111111111,0,142.7756889,Hideo Shiogama
+1,0.111111111,0,142.7756889,Toshihiko Masui
+1,0.111111111,0,142.7756889,Seita Emori
+1,0.125,0,103.513318,Tokuta Yokohata
+1,0.125,0,103.513318,Jun’ya Takakura
+1,0.125,0,103.513318,Weiwei Xiong
+1,0.125,0,103.513318,Rintaro Yamaguchi
+1,0.5,1,189.0638402,Elettra Agliardi
+4,2,0,277.3111684,Anastasios Xepapadeas
+1,0.333333333,0,32.11983289,Jinchi Dong
+3,0.916666667,0,380.0850528,Fangzhi Wang
+1,1,1,442.9412813,Louise Kessler
+2,1,0,398.9776054,Aapo Rautiainen
+2,1,0,398.9776054,Jussi Lintunen
+2,2,1,908.7829396,Disa Asplund
+1,0.5,0,65.09080909,John C.V. Pezzey
+1,0.5,0,65.09080909,Paul J. Burke
+3,1.333333333,0,219.3148179,William Brock
+1,0.333333333,0,235.7000783,Michael Barnett
+1,0.333333333,0,235.7000783,Lars Peter Hansen
+1,0.5,0,65.06932375,Lawrence H. Goulder
+1,0.5,0,65.06932375,Koshy Mathai
+1,0.5,0,251.3534004,NYSERDA
+1,0.5,0,251.3534004,RFF
+1,0.5,0,982.1216868,Thomas Dangl
+1,0.5,0,982.1216868,Franz Wirl
+1,0.333333333,0,1292.533746,Xin Li
+1,0.333333333,0,1292.533746,Borghan Narajabad
+1,0.333333333,0,1292.533746,Ted Temzelides
+4,0.685714286,1,244.0820727,Elena A. Mikhailova
+2,0.285714286,0,255.1767123,Hamdi A. Zurqani
+2,0.285714286,1,255.1767123,Lili Lin
+2,0.285714286,0,255.1767123,Zhenbang Hao
+4,0.685714286,0,244.0820727,Christopher J. Post
+4,0.685714286,0,244.0820727,Mark A. Schlautman
+2,0.342857143,0,244.0820727,Gregory C. Post
+2,0.4,0,232.987433,Garth R. Groshans
+1,0.2,1,232.987433,Lisha Zhang
+1,0.142857143,1,255.1767123,Camryn E. Brown
+1,0.5,0,979.2989625,Stefan Gossling
+1,0.5,0,979.2989625,Andreas Humpe
+1,0.333333333,0,1059.479653,Syed M. Hasan
+1,0.333333333,0,1059.479653,Abdur R. Shahid
+1,0.333333333,0,1059.479653,Ahmed Imteaj
+1,1,0,457.0948193,Cristian Mardones
+1,0.166666667,1,342.7546369,Tao Zhang
+1,0.166666667,0,342.7546369,Guozhi Peng
+1,0.166666667,0,342.7546369,Yanwei Zhang
+1,0.166666667,0,342.7546369,Shaobo Xie
+1,0.166666667,0,342.7546369,Fengqi Zhang
+1,0.166666667,0,342.7546369,Serdar Coskun
+2,0.533333333,0,250.928134,Hemant Bherwani
+1,0.333333333,0,205.6527821,Tuhin Banerji
+1,0.333333333,0,205.6527821,Ratish Menon
+1,0.2,0,296.203486,Ankit Gupta
+1,0.2,0,296.203486,Moorthy M. Nair
+1,0.2,1,296.203486,Himani Sonwane
+1,0.2,0,296.203486,Rakesh Kumar
+1,0.2,1,198.2760838,Florencia B. Pulhin
+1,0.2,1,198.2760838,Angelica T. Magpantay
+1,0.2,0,198.2760838,Nico R. Almerines
+1,0.2,0,198.2760838,Canesio D. Predo
+1,0.2,0,198.2760838,Juan M. Pulhin
+1,0.5,0,9.570421679,Okan Kon
+1,0.5,0,9.570421679,Ismail Caner
+1,0.142857143,1,331.4974731,Andrea Lucchesi
+1,0.142857143,1,331.4974731,Madhu Khanna
+1,0.142857143,1,331.4974731,Paula C. Pareda
+1,0.142857143,1,331.4974731,Keyi A. Ussami
+1,0.142857143,1,331.4974731,Patricia G.C. Ruggieri
+1,0.142857143,0,331.4974731,Victor S. Dornelas
+1,0.142857143,1,331.4974731,Tess Lallement
+1,0.166666667,1,1258.577767,Melissa Cusack Striepe
+1,0.166666667,0,1258.577767,Alexandre Milanoff
+1,0.166666667,0,1258.577767,Amir F.N. Abdul-Manan
+1,0.166666667,0,1258.577767,Jon McKechnie
+1,0.166666667,0,1258.577767,I. Daniel Posen
+1,0.166666667,1,1258.577767,Heather L. MacLean
+1,1,0,719.4686226,Robert Loube
+1,0.5,0,537.8527807,Adil Farooq
+1,0.5,0,537.8527807,Omer Necati Cora
+1,1,0,562.3006344,Portland
+1,0.5,0,1018.470921,Andrea Molocchi
+1,0.5,0,1018.470921,Giulio Mela
+1,0.071428571,0,905.8515403,Mattia di Russo
+1,0.071428571,1,905.8515403,Aurora Heidar Alizadeh
+1,0.071428571,0,905.8515403,Mario Cesare Nurchis
+1,0.071428571,0,905.8515403,Silvio Capizzi
+1,0.071428571,1,905.8515403,Constanza Cavuto
+1,0.071428571,1,905.8515403,Ornella di Bella
+1,0.071428571,0,905.8515403,Giovanni di Piazza
+1,0.071428571,0,905.8515403,Alessio Figini
+1,0.071428571,0,905.8515403,Daniele Ignazio la Milia
+1,0.071428571,1,905.8515403,Gabriela Nasi
+1,0.071428571,1,905.8515403,Martina Sapienza
+1,0.071428571,0,905.8515403,Aldo Rosano
+1,0.071428571,0,905.8515403,Walter Ricciardi
+1,0.071428571,1,905.8515403,Chiara Cadeddu
+1,0.5,1,905.8515403,Maryam al-Jabir
+1,0.5,1,905.8515403,Rima J. Isaifan
+1,1,0,0,Patrick Bond
+1,1,0,252.1831959,MnPUC
+1,0.2,1,160.0009981,Alicia Hoffman
+1,0.2,0,160.0009981,Unni Kurumbail
+1,0.2,0,160.0009981,Noah Rhodes
+1,0.2,0,160.0009981,Jamey Anderson
+1,0.2,0,160.0009981,Robert Anex
+1,0.2,0,1664.808236,Razieh Shafiei-Alavijeh
+1,0.2,0,1664.808236,Michel Eppink
+1,0.2,0,1664.808236,Joeri F.M. Denayer
+1,0.2,1,1664.808236,Eveline Peeters
+1,0.2,0,1664.808236,Keikhosro Karimi
+1,0.333333333,0,905.8515403,Haider Ibrahim
+1,0.333333333,0,905.8515403,Gohar Alam
+1,0.333333333,0,905.8515403,Ahmed Faheem
+2,0.666666667,0,4888.430358,Weizhen Meng
+1,0.333333333,0,9568.533275,Shilin Li
+3,1,0,3284.308512,Jinqiang Yang
+1,0.2,1,370.9760141,Poulami Sen
+1,0.2,0,370.9760141,Sudipto Mandal
+1,0.2,0,370.9760141,Phani Bhusan Ghosh
+1,0.2,0,370.9760141,Soumyendra Kishore Datta
+1,0.2,0,370.9760141,Nimai Chandra Saha
+2,0.5,1,331.4831701,Tiruwork B. Tibebu
+2,0.5,0,331.4831701,Eric Hittinger
+2,0.5,1,331.4831701,Qing Miao
+2,0.5,0,331.4831701,Eric Williams
+1,0.25,0,441.821999,Hugo Fiestas-Chevez
+1,0.25,0,441.821999,Juan Manuel Roldan-Fernandez
+1,0.25,0,441.821999,Angel Luis Trigo-Garcia
+1,0.25,0,441.821999,Manuel Burgos-Payan
+1,0.333333333,0,219.9014745,Meliz Hastunc
+1,0.333333333,0,219.9014745,Mehmet Senol
+1,0.333333333,0,219.9014745,Serkan Abbasoglu
+2,0.291666667,0,233.7885451,Thomas Knoke
+1,0.166666667,1,227.1703553,Rosa Maria Roman-Cuesta
+1,0.166666667,1,227.1703553,Carola Paul
+1,0.125,0,240.406735,Baltazar Calvas
+1,0.125,1,240.406735,Luz Maria Castro
+1,0.125,0,240.406735,Logan Bingham
+1,0.125,0,240.406735,Mengistie Kindu
+1,0.125,1,240.406735,Karla Pintado
+1,0.125,0,240.406735,Jonathan Torres Celi
+1,0.125,0,240.406735,Jorge Cueva Ortiz
+1,0.25,1,905.8515403,Xinran Wu
+1,0.25,1,905.8515403,Tracey Holloway
+1,0.25,0,905.8515403,Paul Meier
+1,0.25,0,905.8515403,Morgan Edwards
+1,0.5,0,9.229574772,Zenebe Ageru Yilma
+1,0.5,0,9.229574772,Bialfew Ashagrie Yitay
+1,0.142857143,0,312.89664,Min Gon Chung
+1,0.142857143,0,312.89664,Han Guo
+1,0.142857143,1,312.89664,Charity Nyelele
+1,0.142857143,1,312.89664,Benis N. Egoh
+1,0.142857143,0,312.89664,Michael L. Goulden
+1,0.142857143,1,312.89664,Catherine M. Keske
+1,0.142857143,0,312.89664,Roger C. Bales
+1,0.333333333,1,650.6550142,Li Jiang
+1,0.333333333,0,650.6550142,Yoonhong Yi
+1,0.333333333,1,650.6550142,Neslihan Akdeniz
+1,0.25,0,642.1235374,Tommaso Coppola
+1,0.25,0,642.1235374,Luca Micoli
+1,0.25,1,642.1235374,Roberta Russo
+1,0.25,0,642.1235374,Guiseppe Zagaria
+1,0.166666667,1,226.262753,Phitsinee Muangjai
+1,0.166666667,0,226.262753,Wongkot Wongsapai
+1,0.166666667,1,226.262753,Tassawan Jaitiang
+1,0.166666667,0,226.262753,Chaichan Ritkrerkkrai
+1,0.166666667,1,226.262753,Sopit Daroon
+1,0.166666667,1,226.262753,Waranya Thepsaskul
+1,0.5,0,23.36963433,Zhentao Zou
+1,0.5,0,23.36963433,Yingjie Niu
+1,0.034482759,0,856.8865922,Christoph Bertram
+1,0.034482759,1,856.8865922,Elina Brutschin
+1,0.034482759,0,856.8865922,Bas van Ruijven
+1,0.034482759,1,856.8865922,Lara Aleluia Reis
+1,0.034482759,0,856.8865922,Luiz Bernardo Baptista
+1,0.034482759,0,856.8865922,Harmen-Sytze de Boer
+1,0.034482759,1,856.8865922,Ryna Cui
+1,0.034482759,0,856.8865922,Vassilis Daioglou
+1,0.034482759,0,856.8865922,Florian Fosse
+1,0.034482759,0,856.8865922,Dimitris Fragkiadakis
+1,0.034482759,0,856.8865922,Oliver Fricko
+1,0.034482759,0,856.8865922,Nate Hultman
+1,0.034482759,0,856.8865922,Gokul Iyer
+1,0.034482759,0,856.8865922,Kimon Keramidas
+1,0.034482759,0,856.8865922,Volker Krey
+1,0.034482759,1,856.8865922,Robin D. Lamboll
+1,0.034482759,1,856.8865922,Rahel Mandaroux
+1,0.034482759,0,856.8865922,Pedro Rochedo
+1,0.034482759,0,856.8865922,Roberto Schaeffer
+1,0.034482759,0,856.8865922,Diego Silva
+1,0.034482759,1,856.8865922,Isabela Tagomori
+1,0.034482759,1,856.8865922,Zoi Vrontisi
+1,0.034482759,0,856.8865922,Keywan Riahi
+1,0.090909091,0,576.7712419,Francesco Bosello
+1,0.090909091,0,576.7712419,Shouro Dasgupta
+1,0.090909091,0,576.7712419,Ramiro Parrado
+1,0.090909091,0,576.7712419,Gabriele Standardi
+1,0.333333333,0,76.06482123,Harrison Hong
+1,0.333333333,0,76.06482123,Neng Wang
+1,1,0,116.7204205,Steven Poelhekke
+1,0.125,0,71.01393697,M. Sreelekshmi
+1,0.125,0,71.01393697,Dipnarayan Ganguly
+1,0.125,0,71.01393697,Subbareddy Bonthu
+1,0.125,0,71.01393697,R. Muruganandam
+1,0.125,0,71.01393697,K.K. Manodheepan
+1,0.125,0,71.01393697,M.H.K. Prasad
+1,0.125,0,71.01393697,A. Paneer Selvam
+1,0.125,0,71.01393697,R. Purvaja
+2,0.583333333,0,1120.926766,Francisco Estrada
+1,0.25,0,143.6938689,Thirupathi Rao
+1,0.25,1,143.6938689,Siti I. Mustapa
+4,1.116666667,0,264.3684844,Abdul Q. Al-Amin
+2,0.45,0,362.4297937,Adeel Ahmed
+2,0.533333333,0,424.2083436,Rajah Rasiah
+1,0.333333333,1,267.2509688,Santha Chenayah
+2,0.533333333,0,323.26455,Walter Leal Filho
+1,0.2,0,581.1657184,Eduardo Calvo
+1,0.333333333,0,65.36338153,M.S.K. Sarkar
+1,0.2,1,393.3517499,Kylor Kerns
+1,0.2,0,393.3517499,Mark White
+1,0.2,1,393.3517499,Mariana Camacho
+1,0.2,1,393.3517499,Karen McGlathery
+1,0.2,0,393.3517499,Chris Patrick
+1,0.5,0,930.3340144,Sungmin Cheu
+1,0.5,0,930.3340144,Matthew Gammans
+1,0.125,1,746.3545211,Ashmita Bhattacharya
+1,0.125,0,746.3545211,Konstantinos G. Papakonstantinou
+1,0.125,0,746.3545211,Gordon P. Warn
+1,0.125,1,746.3545211,Lauren McPhillips
+1,0.125,1,746.3545211,Melissa M. Bilec
+1,0.125,0,746.3545211,Chris E. Forest
+1,0.125,0,746.3545211,Rafah Hasan
+1,0.125,0,746.3545211,Digant Chavda
+1,0.333333333,0,930.3340144,Alain Naef
+1,0.333333333,1,930.3340144,Nina L. Friggens
+1,0.333333333,0,930.3340144,Patrick Njeukam
+1,1,0,367.2371109,Ozan Akdag
+1,0.25,0,386.8720551,Mohammad A. Eteriki
+1,0.25,1,386.8720551,Wedad A. El-Osta
+1,0.25,0,386.8720551,Yasser F. Nassar
+1,0.25,1,386.8720551,Hala E. El-Khozondar
+1,0.2,1,269.7446521,Berlant Arab
+1,0.2,0,269.7446521,Mohamed A. Raouf
+1,0.2,0,269.7446521,Amir Rahal
+1,0.2,1,269.7446521,Mariam Mostafa
+1,0.2,0,269.7446521,Mohamed N. AbouZeid
+1,0.333333333,0,768.7496856,Prashant P. Bhave
+1,0.333333333,0,768.7496856,Chetan Dhawad
+1,0.333333333,0,768.7496856,Vibha Jain
+1,0.333333333,1,647.9555014,Sofia Aleshina
+1,0.333333333,1,647.9555014,Laura Delgado-Antequera
+1,0.333333333,0,647.9555014,German Gemar
+1,0.25,1,2093.53137,Lucia Piazza
+1,0.25,0,2093.53137,Francesco P. Colelli
+1,0.25,0,2093.53137,Wilmer Pasut
+1,0.25,1,2093.53137,Enrica de Cian
+1,0.25,0,909.9266801,Santiago Eduardo
+1,0.25,1,909.9266801,Katharina M. Schmitz
+1,0.25,0,909.9266801,Erik A. Recklies
+1,0.25,0,909.9266801,Semih Severengiz
+1,0.125,0,906.4077105,Yanlei Zhu
+1,0.125,1,906.4077105,Ming Ren
+1,0.125,0,906.4077105,Jingyang Song
+1,0.125,0,906.4077105,Teng Ma
+1,0.125,0,906.4077105,Yihan Wang
+1,0.125,0,906.4077105,Chen Huang
+1,0.125,0,906.4077105,Zhi Cao
+1,0.125,0,906.4077105,Hancheng Dai
+1,0.333333333,0,379.7113382,Tao Xuan
+1,0.333333333,0,379.7113382,Xusheng Cheng
+1,0.333333333,1,379.7113382,Liwei Wang
+1,0.333333333,1,934.1989147,Xinyi Wu
+1,0.333333333,0,934.1989147,Ningyu Yan
+1,0.333333333,0,934.1989147,Zengkai Zhang
+1,0.125,0,906.4077105,Junjie Chen
+1,0.125,0,906.4077105,Xin Lai
+1,0.125,0,906.4077105,Quanwei Chen
+1,0.125,0,906.4077105,Yuejiu Zheng
+1,0.125,0,906.4077105,Yue Niu
+1,0.125,0,906.4077105,Lin Sun
+1,0.125,0,906.4077105,Bo Tang
+1,0.125,0,906.4077105,E Cheng
+1,0.5,1,596.7887854,Fadime Aksoy
+1,0.5,1,596.7887854,Nuran B. Arli
+1,1,0,195.9659409,Zhou Feng
+1,0.25,0,1001.915575,Marcos T.D. Lima
+1,0.25,0,1001.915575,Milton M. Fernandes
+1,0.25,0,1001.915575,Junior R. Garcia
+1,0.25,0,1001.915575,Luis O.B. Macedo
+1,1,0,217.3040601,Jianxian Wu
+1,0.166666667,0,50.22298705,Kuiyuan Xu
+1,0.166666667,0,50.22298705,Ruhan Li
+1,0.166666667,0,50.22298705,Mengnan Liu
+1,0.166666667,0,50.22298705,Yajie Cao
+1,0.166666667,0,50.22298705,Jinwen Yang
+1,0.166666667,1,50.22298705,Yali Wei
+1,0.166666667,0,541.135977,Fubin Chen
+1,0.166666667,1,541.135977,Zhao Yang
+1,0.166666667,0,541.135977,Yiping Wang
+1,0.166666667,1,541.135977,Hongxia He
+1,0.166666667,0,541.135977,Yong Zhang
+1,0.166666667,0,541.135977,Yanfeng Zhao
+1,0.5,0,51.02869434,Abbas Behzadi
+1,0.5,0,51.02869434,Ali A.A. Arani
+1,0.5,1,157.0113672,Diaz Pranita
+1,0.5,0,157.0113672,Sri Sarjana
+1,0.052631579,0,44.9837567,Waseem R. Khan
+1,0.052631579,1,44.9837567,Michele Giani
+1,0.052631579,0,44.9837567,Stanislao Bevilacqua
+1,0.052631579,0,44.9837567,Shoaib A. Anees
+1,0.052631579,0,44.9837567,Kaleem Mehmood
+1,0.052631579,0,44.9837567,M. Nazre
+1,0.052631579,0,44.9837567,Abdul A.B.A. Haddy
+1,0.052631579,0,44.9837567,Abang N.B.A. Median
+1,0.052631579,1,44.9837567,Japanie B. Bujang
+1,0.052631579,1,44.9837567,Fatin-N. Mohamad-I.
+1,0.052631579,0,44.9837567,Johar Mohamed
+1,0.052631579,0,44.9837567,Zaiton Samdin
+1,0.052631579,0,44.9837567,Rambod Abiri
+1,0.052631579,1,44.9837567,Tuan-M. Tuan-I.
+1,0.052631579,1,44.9837567,Lydia-S. Mohamad-I.
+1,0.052631579,0,44.9837567,Hamid-Reza Naji
+1,0.052631579,1,44.9837567,Seemab Akram
+1,0.052631579,0,44.9837567,Hazandy Abdul-Hamid
+1,0.052631579,0,44.9837567,Timothy Dube
+1,0.2,1,253.9039094,Xufang Zhang
+1,0.2,1,253.9039094,Pooja Chhetri
+1,0.2,0,253.9039094,Aaron Stottlemyer
+1,0.2,0,253.9039094,Ford O Brien
+1,0.2,0,253.9039094,Eric McConnell
+1,0.111111111,0,136.0499775,Wei Yu
+1,0.111111111,0,136.0499775,Fali Liu
+1,0.111111111,0,136.0499775,Xianglan Jiao
+1,0.111111111,1,136.0499775,Pingping Fan
+1,0.111111111,0,136.0499775,Haiquan Yang
+1,0.111111111,1,136.0499775,Yongmei Zhang
+1,0.111111111,0,136.0499775,Jie Li
+1,0.111111111,0,136.0499775,Jingan Chen
+1,0.111111111,0,136.0499775,Xuede Li
+1,0.1,1,906.5626048,Nina Brooks
+1,0.1,0,906.5626048,Debashish Biswas
+1,0.1,0,906.5626048,Sameer Maithel
+1,0.1,0,906.5626048,Grant Miller
+1,0.1,0,906.5626048,Aprajit Mahajan
+1,0.1,0,906.5626048,M. Rofi Uddin
+1,0.1,0,906.5626048,Shoeb Ahmed
+1,0.1,0,906.5626048,Moogdho Mahzab
+1,0.1,0,906.5626048,Mahbubur Rahman
+1,0.1,0,906.5626048,Stephen P. Luby
+2,2,0,223.5668688,Joel R. Landry
+1,0.166666667,1,906.5626048,Dorleta Garcia
+1,0.166666667,1,906.5626048,Marga Andres
+1,0.166666667,0,906.5626048,Iosu Paradinas
+1,0.166666667,1,906.5626048,Paula Alvarez
+1,0.166666667,0,906.5626048,Guillermo Boyra
+1,0.166666667,0,906.5626048,Rolf A. Groeneveld
+2,0.583333333,1,548.4687209,Huai Deng
+2,0.583333333,0,548.4687209,Huan Wu
+2,0.583333333,0,548.4687209,Hui Xu
+1,0.25,0,852.5629979,Dawei Zhang
+1,0.5,0,95.66426612,Anas Laamouri
+1,0.5,0,95.66426612,Abdellatif Khattabi
+1,0.2,0,1464.155172,Song Xiao
+1,0.2,1,1464.155172,Yuting Yang
+1,0.2,1,1464.155172,Yubei Li
+1,0.2,1,1464.155172,Jingtong Lin
+1,0.2,1,1464.155172,Yana Jin
+1,0.5,0,869.4775835,Felix Schaumann
+1,0.5,0,869.4775835,Eduardo A. de Asenjo
+1,0.5,0,1543.821762,Martin Ovaere
+1,0.5,0,1543.821762,Stef Proost
+1,0.25,1,421.3817116,Fatemeh Mohammadyari
+1,0.25,0,421.3817116,Ardavan Zarandian
+1,0.25,0,421.3817116,Majid R. Mehrian
+1,0.25,1,421.3817116,Roya Mousazadeh
+1,1,1,922.2226057,Julie Raynaud
+1,0.333333333,1,922.2226057,Mariana V. da Costa
+1,0.333333333,1,922.2226057,Daniela Debone
+1,0.333333333,1,922.2226057,Simone G.K. Miraglia
+1,1,0,1314.176041,Canada
+1,0.25,0,1217.726362,Carlo Cunanan
+1,0.25,0,1217.726362,Milind Jain
+1,0.25,0,1217.726362,Alain-Desire Nimubona
+1,0.25,0,1217.726362,Xiao-Yu Wu
+1,0.333333333,0,538.775072,Seong-Hoon Cho
+1,0.333333333,0,538.775072,James C. Mingie
+1,0.333333333,0,538.775072,Charles B. Sims
+1,0.333333333,0,906.4606587,Harrison Fell
+1,0.333333333,0,906.4606587,Stephen P. Holland
+1,0.333333333,0,906.4606587,Andrew J. Yates
+1,0.2,0,1041.4498,Julian Schaper
+1,0.2,0,1041.4498,Max Franks
+1,0.2,0,1041.4498,Nicholas Koch
+1,0.2,1,1041.4498,Charlotte Plinke
+1,0.2,0,1041.4498,Michael Sureth
+1,0.25,0,224.7138063,Khairul M. Lubis
+1,0.25,0,224.7138063,Zulhamsyah Imran
+1,0.25,0,224.7138063,Taryono
+1,0.25,0,224.7138063,Ario Damar
+1,0.333333333,1,224.7138063,Kristi Siagian
+1,0.333333333,0,224.7138063,Mahawan Karuniasa
+1,0.333333333,0,224.7138063,Kosuke Mizuno
+1,0.25,0,587.9744813,Fletcher T. Chapin
+1,0.25,1,587.9744813,Daly Wettermark
+1,0.25,0,587.9744813,Jose Bolorinos
+1,0.25,1,587.9744813,Meagan S. Mauter
+1,0.333333333,1,578.1749067,Motahareh Kashanian
+1,0.333333333,0,578.1749067,Shayan Tohidi
+1,0.333333333,1,578.1749067,Sarah M. Ryan
+1,0.125,0,223.6666667,Mohammad A. Islam
+1,0.125,0,223.6666667,M. Sajid Hasan
+1,0.125,0,223.6666667,Imam-ur-Rashid
+1,0.125,0,223.6666667,M. Manzurul Hasan
+1,0.125,0,223.6666667,Jawadul A. Chowdhury
+1,0.125,0,223.6666667,Moshiur R. Sohan
+1,0.125,1,223.6666667,Nahid A. Jahan
+1,0.125,0,223.6666667,M. Mofazzal Hossain
+1,1,0,906.4606587,Devin A. Serfas
+1,0.2,0,1002.039392,Marco Springmann
+1,0.2,0,1002.039392,Manasi P. Hansoge
+1,0.2,1,1002.039392,Linda Schultz
+1,0.2,1,1002.039392,Silvia Pastorino
+1,0.2,0,1002.039392,Donald A.P. Bundy
+1,1,0,252.5056773,GAO
+2,0.5,0,712.8111576,Adam Rose
+1,0.333333333,1,246.0796766,Dan Wei
+1,0.333333333,0,246.0796766,Adam Einbinder
+1,0.166666667,0,1179.542639,Nathaniel Gundersen
+1,0.166666667,1,1179.542639,Yamini Kumar
+1,0.166666667,0,1179.542639,Joshua Jacobs
+1,0.166666667,1,1179.542639,Isabel Reynoso
+1,0.166666667,0,1179.542639,Najmedin Meshkati
+1,1,0,241.1391975,EDF
+1,0.125,0,241.1391975,Abdul Manan
+1,0.125,0,241.1391975,La B. Sudia
+1,0.125,0,241.1391975,Umar O. Hasani
+1,0.125,0,241.1391975,Surya C.R. Kete
+1,0.125,0,241.1391975,La Gandri
+1,0.125,0,241.1391975,Asramid Yasin
+1,0.125,0,241.1391975,Agusrinal
+1,0.125,1,241.1391975,Isabela
+1,0.5,0,245.0885827,Howard Shelanski
+1,0.5,0,245.0885827,Maurice Obstfeld
+1,0.333333333,0,263.8647247,Timothy Neal
+1,0.333333333,0,263.8647247,Ben R. Newell
+1,0.333333333,0,263.8647247,Andy Pitman
+1,0.333333333,0,931.567578,Leo Coppens
+1,0.5,0,3585.148954,Adrien Bilal
+1,0.5,0,3585.148954,Diego R. Kanzig
+1,0.25,1,177.7620815,Aleksandra Friedl
+1,0.333333333,0,208.3274402,Tuyue Chen
+5,4,0,111.1836251,Robert O. Mendelsohn
