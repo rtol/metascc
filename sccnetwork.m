@@ -1,6 +1,6 @@
 clear all
 
-citation2024
+citation2025
 
 NPaper = length(H.Nodes{:,1});
 Naux = length(ID);
@@ -15,9 +15,8 @@ progress = sum(included)/NPaper
 
 if progress == 1
     disp('all papers are correctly identified')
+    clear included progress
 end
-
-clear included progress
 %%
 if ismultigraph(H)
  disp('duplicate edges')
@@ -59,12 +58,12 @@ clear ec
 %%
 T = readtable('contribution.csv');
 
-Naux = length(T.Var4);
+Naux = length(T.Var5);
 
 included = zeros(NAuth,1);
 for i=1:NAuth
     for j=1:Naux
-        included(i) = or(included(i),strcmp(A.Nodes.Name{i},T.Var4{j}));
+        included(i) = or(included(i),strcmp(A.Nodes.Name{i},T.Var5{j}));
     end
 end
 
@@ -76,7 +75,7 @@ end
 included = zeros(Naux,1);
 for i=1:Naux
     for j=1:NAuth
-        included(i) = or(included(i),strcmp(A.Nodes.Name{j},T.Var4{i}));
+        included(i) = or(included(i),strcmp(A.Nodes.Name{j},T.Var5{i}));
     end
 end
 
@@ -92,7 +91,7 @@ ncontr = T.Var2;
 
 for i=1:NAuth
     for j=1:NAuth
-        if strcmp(A.Nodes.Name{i},T.Var4{j})
+        if strcmp(A.Nodes.Name{i},T.Var5{j})
             npap(i) = T.Var1(j);
             ncontr(i) = T.Var2(j);
         end
@@ -102,7 +101,7 @@ end
 %%
 dist = distances(A);
 idx = zeros(1,NAuth);
-threshold = 5;%13
+threshold = 13;%5
 for i=1:NAuth,
     if npap(i)>=threshold
         pos = find(strcmp(A.Nodes{i,1},A.Nodes{:,1}));
